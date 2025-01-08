@@ -22,7 +22,8 @@ body { background-color: rgb(0, 0, 0);
     height: 32rem;
   }
   button{
-    background-color: #FFDC50FF;
+    background-color: rgba(255, 204, 0, 0);
+    border: 3px solid red;
   }
   /* MARKETING CONTENT
   -------------------------------------------------- */
