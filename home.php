@@ -10,7 +10,7 @@
         <!-- Custom styles for this template -->
         <link href="sign-in.css" rel="stylesheet">
         <link rel="stylesheet" href="home.css">
-        <link href="home.css" rel="stylesheet">  
+        <!--  <link href="home.css" rel="stylesheet">  -->
         <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
         <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/sign-in/">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
@@ -118,6 +118,7 @@
         </style>        
     </head>
     <body>
+<!--
         <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
             <symbol id="check2" viewBox="0 0 16 16">
                 <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
@@ -133,6 +134,9 @@
                 <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
             </symbol>
         </svg>
+-->
+        <!-- DARK/LIGHT -->
+<!--        
         <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
             <button class="btn btn-bd-danger py-2 dropdown-toggle d-flex align-items-center"
                     id="bd-theme"
@@ -163,7 +167,8 @@
                     </button>
                 </li>
             </ul>
-        </div>    
+        </div>
+-->            
         <header data-bs-theme="">
             <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
                 <div class="container-fluid">
@@ -261,7 +266,6 @@
             <!-- Marketing messaging and featurettes
             ================================================== -->
             <!-- Wrap the rest of the page in another container to center all the content. -->
-        <main>
             <div class="container marketing">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
